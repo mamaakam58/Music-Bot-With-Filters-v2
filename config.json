@@ -1,7 +1,7 @@
 {
-  "TOKEN": "xxxxxxx",
-  "PREFIX": "h!",
-  "approveemoji": "✅",
-  "denyemoji": "🚫",
-  "erroremoji": "️❗"
+  "TOKEN": "ODQ5OTQyODI0NzY1NzUxMzQ4.YLig8A.mgweESq4uyDPMLgTy7xwHdueimY",
+  "PREFIX": "&",
+  "approveemoji": "*",
+  "denyemoji": "*",
+  "erroremoji": "️*"
 }
